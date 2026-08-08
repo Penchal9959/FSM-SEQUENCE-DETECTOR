@@ -1,0 +1,21 @@
+# Simulation output
+*.vvp
+*.vcd
+*.out
+sim.log
+work/
+transcript
+vsim.wlf
+*.wlf
+
+# ModelSim project cruft
+*.mpf.bak
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*~
+*.swp
