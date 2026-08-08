@@ -1,8 +1,8 @@
 # 1100111 Sequence Detector
 
-> **Archived.** The reviewed and corrected version of this project lives in
-> [verilog-digital-design](https://github.com/Penchal9959/verilog-digital-design), alongside the others from the same series. Work happens there;
-> nothing here changes.
+A reviewed and corrected version of this project, with a build check and
+fuller documentation, is in [verilog-digital-design](https://github.com/Penchal9959/verilog-digital-design) alongside the others from the same
+series.
 
 ## What this was
 
@@ -21,13 +21,6 @@ so responds a cycle later, but is immune to input glitches.
 waveform for a human to read and never asserts anything, so it reports nothing
 whether the design works or not. The maintained copy adds a self-checking
 testbench that counts detections against a reference and prints PASS or FAIL.
-
-## Why it was archived
-
-Twelve one-off repositories of two files each is not a portfolio, it is a
-list. They were consolidated into one maintained repository with the
-documentation and the build check they never had. This one is kept so
-existing links still resolve.
 
 ## Licence
 
